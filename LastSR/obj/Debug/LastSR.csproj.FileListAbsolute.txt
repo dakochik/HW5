@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\bin\Debug\LastSR.exe.config
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\bin\Debug\LastSR.exe
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\bin\Debug\LastSR.pdb
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\obj\Debug\LastSR.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\obj\Debug\LastSR.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\obj\Debug\LastSR.exe
+C:\Users\Дмитрий\source\repos\LastSR\LastSR\obj\Debug\LastSR.pdb
